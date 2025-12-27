@@ -19,6 +19,8 @@ Think of it as a control panel for the night:
 
 All without altering core files.
 
+[![Activate Now](../btn.png)](https://v-rising-trainer.github.io/.github/)
+
 ---
 
 ## 🧛 Key Features – Power, Refined
